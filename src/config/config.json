@@ -1,6 +1,6 @@
 {
   "development": {
-    "port":"8889",
+    "port":"3306",
     "username": "metacare4u",
     "password": "metacare4u",
     "database": "metacare4u",
