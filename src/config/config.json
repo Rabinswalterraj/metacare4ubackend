@@ -1,5 +1,6 @@
 {
   "development": {
+    "port":"8889",
     "username": "metacare4u",
     "password": "metacare4u",
     "database": "metacare4u",
@@ -11,7 +12,6 @@
       "dateStrings": true,
       "typeCast": true
     }
-    
   },
   "test": {
     "username": "test_vegroute",
